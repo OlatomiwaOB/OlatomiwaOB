@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems by creating awesome softwares.
 - 🌱 I’m currently learning Frontend development. 
 - 💞️ I’m looking to collaborate on opensource projects and companies projects
-- 📫 How to reach me +2348160958464
+- 📫 How to reach me - Idowuolatomiwa@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Null
 
